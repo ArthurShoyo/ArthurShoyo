@@ -1,14 +1,14 @@
 ### Olá! Eu sou o Arthur Araújo
 
 
-- 🌱 Estudando Java
-- 🌱 Conhecimento em Python
+- 🌱 Desenvolvedor Java
+- 🌱 Conhecimentos em Python
 - 📫 Contate-me no email: arthuraraujoshoyo@gmail.com 
 
 <div align="center">
   <a href="https://github.com/ArthurShoyo">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=ArthurShoyo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurShoyo&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=ArthurShoyo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurShoyo&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
 <div style="display: inline_block"><br>
